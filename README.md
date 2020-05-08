@@ -1,7 +1,7 @@
 # binAveraging
 Averaging noisy data into bins
 
-
+[![View Averaging noisy data into bins on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/73584-averaging-noisy-data-into-bins)
 [![DOI](https://zenodo.org/badge/262429605.svg)](https://zenodo.org/badge/latestdoi/262429605)
 
 
