@@ -10,8 +10,8 @@ The Matlab function binAveraging allows clearer visualization of power spectral 
 
 The present submission contains:
 
-    the function binAveraging.m
-    An example file Example.mlx
-    A data set PSD_velocity.mat which contains a time series of simulated turbulent velocity fluctuations
+- the function binAveraging.m
+- An example file Example.mlx
+- A data set PSD_velocity.mat which contains a time series of simulated turbulent velocity fluctuations
 
 
